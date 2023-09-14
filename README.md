@@ -5,7 +5,7 @@ I conducted a comparison of word weighting using Count Vectorizer and TF-IDF, in
 ## Requirements
 There are some general library requirements for the project and some which are specific to individual methods. The general requirements are as follows.
 
-- **NumPy** [https://numpy.org] - Fast and versatile, the NumPy vectorization, indexing, and broadcasting concepts are the de-facto standards of array computing today.
+- `NumPy` [https://numpy.org] - Fast and versatile, the NumPy vectorization, indexing, and broadcasting concepts are the de-facto standards of array computing today.
 - **Pandas** [https://pandas.pydata.org] - Fast, powerful, flexible and easy to use open source data analysis and manipulation tool.
 - **NLTK** [https://www.nltk.org] - Standard python library with prebuilt functions and utilities for the ease of use and implementation.
 - **Scikit-learn** [https://scikit-learn.org] - Simple and efficient tools for predictive data analysis.
